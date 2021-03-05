@@ -22,7 +22,7 @@ float actualHeight;
 
 // The Height from Where Height is Measured, It's Value is in CM.
 float heightMeasuredFrom = 72.60; 
-// 68.52cm /26.98 In is the Height of Table in IOT LAB.
+// 72.60 cm is the Height of Table in IOT LAB from Where the Height is Measured.
 
 void setup()
 {
